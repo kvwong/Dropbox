@@ -14,6 +14,12 @@
 		CBC8F2BE1BAA565700BC7DAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBC8F2BC1BAA565700BC7DAF /* LaunchScreen.storyboard */; };
 		CBC8F2C91BAA565700BC7DAF /* Week_1___DropboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC8F2C81BAA565700BC7DAF /* Week_1___DropboxTests.swift */; };
 		CBC8F2D41BAA565700BC7DAF /* Week_1___DropboxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC8F2D31BAA565700BC7DAF /* Week_1___DropboxUITests.swift */; };
+		CBEDEF401BABE3F300BA2610 /* AccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBEDEF3F1BABE3F300BA2610 /* AccountViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		CBEDEF421BABE9D100BA2610 /* TermsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBEDEF411BABE9D100BA2610 /* TermsViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		CBEDEF441BABEEA500BA2610 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBEDEF431BABEEA500BA2610 /* SettingsViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		CBEDEF461BAC013E00BA2610 /* ExistingPhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBEDEF451BAC013E00BA2610 /* ExistingPhotosViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		CBEDEF481BAC05D100BA2610 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBEDEF471BAC05D100BA2610 /* WelcomeViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		CBEDEF4A1BAC0D2800BA2610 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBEDEF491BAC0D2800BA2610 /* DetailsViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +53,12 @@
 		CBC8F2CF1BAA565700BC7DAF /* Week 1 - DropboxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Week 1 - DropboxUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBC8F2D31BAA565700BC7DAF /* Week_1___DropboxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Week_1___DropboxUITests.swift"; sourceTree = "<group>"; };
 		CBC8F2D51BAA565700BC7DAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CBEDEF3F1BABE3F300BA2610 /* AccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountViewController.swift; sourceTree = "<group>"; };
+		CBEDEF411BABE9D100BA2610 /* TermsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsViewController.swift; sourceTree = "<group>"; };
+		CBEDEF431BABEEA500BA2610 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		CBEDEF451BAC013E00BA2610 /* ExistingPhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExistingPhotosViewController.swift; sourceTree = "<group>"; };
+		CBEDEF471BAC05D100BA2610 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		CBEDEF491BAC0D2800BA2610 /* DetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +89,9 @@
 		CBC8F2A71BAA565700BC7DAF = {
 			isa = PBXGroup;
 			children = (
+				CBEDEF451BAC013E00BA2610 /* ExistingPhotosViewController.swift */,
+				CBEDEF471BAC05D100BA2610 /* WelcomeViewController.swift */,
+				CBEDEF411BABE9D100BA2610 /* TermsViewController.swift */,
 				CBC8F2B21BAA565700BC7DAF /* Week 1 - Dropbox */,
 				CBC8F2C71BAA565700BC7DAF /* Week 1 - DropboxTests */,
 				CBC8F2D21BAA565700BC7DAF /* Week 1 - DropboxUITests */,
@@ -100,6 +115,9 @@
 				CBC8F2B31BAA565700BC7DAF /* AppDelegate.swift */,
 				CBC8F2B51BAA565700BC7DAF /* ViewController.swift */,
 				CBC8F2B71BAA565700BC7DAF /* Main.storyboard */,
+				CBEDEF491BAC0D2800BA2610 /* DetailsViewController.swift */,
+				CBEDEF431BABEEA500BA2610 /* SettingsViewController.swift */,
+				CBEDEF3F1BABE3F300BA2610 /* AccountViewController.swift */,
 				CBC8F2BA1BAA565700BC7DAF /* Assets.xcassets */,
 				CBC8F2BC1BAA565700BC7DAF /* LaunchScreen.storyboard */,
 				CBC8F2BF1BAA565700BC7DAF /* Info.plist */,
@@ -255,8 +273,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CBEDEF461BAC013E00BA2610 /* ExistingPhotosViewController.swift in Sources */,
 				CBC8F2B61BAA565700BC7DAF /* ViewController.swift in Sources */,
 				CBC8F2B41BAA565700BC7DAF /* AppDelegate.swift in Sources */,
+				CBEDEF4A1BAC0D2800BA2610 /* DetailsViewController.swift in Sources */,
+				CBEDEF421BABE9D100BA2610 /* TermsViewController.swift in Sources */,
+				CBEDEF441BABEEA500BA2610 /* SettingsViewController.swift in Sources */,
+				CBEDEF401BABE3F300BA2610 /* AccountViewController.swift in Sources */,
+				CBEDEF481BAC05D100BA2610 /* WelcomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -398,6 +422,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = "Week 1 - Dropbox/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "kvwong.Week-1---Dropbox";
@@ -409,6 +434,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = "Week 1 - Dropbox/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "kvwong.Week-1---Dropbox";
@@ -483,6 +509,7 @@
 				CBC8F2DA1BAA565700BC7DAF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CBC8F2DB1BAA565700BC7DAF /* Build configuration list for PBXNativeTarget "Week 1 - DropboxTests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +518,7 @@
 				CBC8F2DD1BAA565700BC7DAF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CBC8F2DE1BAA565700BC7DAF /* Build configuration list for PBXNativeTarget "Week 1 - DropboxUITests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +527,7 @@
 				CBC8F2E01BAA565700BC7DAF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
