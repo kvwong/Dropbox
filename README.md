@@ -26,15 +26,15 @@ CodePath: Week 1 Assignment - Dropbox app demoing walkthrough, login / sign up f
 
 **SIGN UP + TERMS**
 
-![](TBD)
+![](https://github.com/kvwong/Dropbox-Prototype/blob/master/Dropbox%20-%20Welcome.gif)
 
 **SIGN IN + FORM VALIDATION**
 
-![](TBD)
+![](https://github.com/kvwong/Dropbox-Prototype/blob/master/Dropbox%20-%20Login.gif)
 
 **FAVORITING FILE**
 
-![](TBD)
+![](https://github.com/kvwong/Dropbox-Prototype/blob/master/Dropbox%20-%20Favorite.gif)
 
 ## Creator
 **Kevin Wong**
