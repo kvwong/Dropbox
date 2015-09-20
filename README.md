@@ -44,3 +44,5 @@ CodePath: Week 1 Assignment - Dropbox app demoing walkthrough, login / sign up f
 
 ## Copyright & License
 Code copyright 2015 Kevin Wong. Code released under the [MIT license](https://github.com/kvwong/Tip-Calculator/blob/master/License). 
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
