@@ -17,6 +17,7 @@ CodePath: Week 1 Assignment - Dropbox app demoing walkthrough, login / sign up f
 * Required: User can log out and flow through either sign up or sign in paths with dismiss push segue working in all instances
 * Optional: Sign in has working keyboard with conditions to enable "Sign In" button if email AND password have text
 * Optional: File detail view of empty state graphic contains a Favorite button which changes states when tapped
+* Optional: Swipe through welcome screen instead of tapping
 
 ## Screens
 
