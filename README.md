@@ -3,9 +3,9 @@ CodePath: Week 1 Assignment - Dropbox app demoing walkthrough, login / sign up f
 
 ## Time spent
 
-6 hours spent in total
-* 4 hours development and debugging
-* 2 hours reading / watching tutorials
+8 hours spent in total
+* 5 hours development and debugging
+* 3 hours reading / watching tutorials
 
 ## Functionality
 
