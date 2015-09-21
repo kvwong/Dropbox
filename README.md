@@ -22,7 +22,7 @@ CodePath: Week 1 Assignment - Dropbox app demoing walkthrough, login / sign up f
 
 **WELCOME**
 
-![](TBD)
+![](https://github.com/kvwong/Dropbox-Prototype/blob/master/Dropbox%20-%20Walkthrough.gif)
 
 **SIGN UP + TERMS**
 
