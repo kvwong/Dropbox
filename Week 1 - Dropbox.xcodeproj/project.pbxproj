@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CB4671E11BAF8B21001771EC /* Welcome2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4671E01BAF8B21001771EC /* Welcome2ViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		CB4671E31BAF8B39001771EC /* Welcome3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4671E21BAF8B39001771EC /* Welcome3ViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		CB80101E1BAC213D0095E967 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB80101D1BAC213D0095E967 /* WelcomeViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		CB8010201BAC25450095E967 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB80101F1BAC25450095E967 /* PageViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		CBC8F2B41BAA565700BC7DAF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC8F2B31BAA565700BC7DAF /* AppDelegate.swift */; };
@@ -41,6 +43,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CB4671E01BAF8B21001771EC /* Welcome2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Welcome2ViewController.swift; sourceTree = "<group>"; };
+		CB4671E21BAF8B39001771EC /* Welcome3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Welcome3ViewController.swift; sourceTree = "<group>"; };
 		CB80101D1BAC213D0095E967 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		CB80101F1BAC25450095E967 /* PageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		CBC8F2B01BAA565700BC7DAF /* Week 1 - Dropbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Week 1 - Dropbox.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -118,6 +122,8 @@
 				CB80101F1BAC25450095E967 /* PageViewController.swift */,
 				CB80101D1BAC213D0095E967 /* WelcomeViewController.swift */,
 				CBC8F2B71BAA565700BC7DAF /* Main.storyboard */,
+				CB4671E21BAF8B39001771EC /* Welcome3ViewController.swift */,
+				CB4671E01BAF8B21001771EC /* Welcome2ViewController.swift */,
 				CBEDEF491BAC0D2800BA2610 /* DetailsViewController.swift */,
 				CBEDEF431BABEEA500BA2610 /* SettingsViewController.swift */,
 				CBEDEF3F1BABE3F300BA2610 /* AccountViewController.swift */,
@@ -284,6 +290,8 @@
 				CBEDEF421BABE9D100BA2610 /* TermsViewController.swift in Sources */,
 				CB8010201BAC25450095E967 /* PageViewController.swift in Sources */,
 				CBEDEF441BABEEA500BA2610 /* SettingsViewController.swift in Sources */,
+				CB4671E11BAF8B21001771EC /* Welcome2ViewController.swift in Sources */,
+				CB4671E31BAF8B39001771EC /* Welcome3ViewController.swift in Sources */,
 				CBEDEF401BABE3F300BA2610 /* AccountViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

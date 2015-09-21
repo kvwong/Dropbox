@@ -14,6 +14,8 @@ class PageViewController: UIViewController {
     
     private let contentImages = ["welcome1","welcome2","welcome3"]
     
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -21,5 +23,6 @@ class PageViewController: UIViewController {
     
     
 }
+
 
 
